@@ -31,8 +31,8 @@ This project demonstrates **AI-driven customer support automation** and provides
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone 
-cd ai-customer-support-agent
+git clone https://github.com/NAGINENIROHITH/ai-agent
+cd ai-agent
 pip install -r requirements.txt
 python app.py
 ```
